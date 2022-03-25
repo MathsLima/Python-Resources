@@ -1,4 +1,4 @@
-# Python-for-Data-Analysis-and-Machine-Learnig
+# Python-resources-for-Data-Analysis-and-Machine-Learnig
 
 Principais recursos utilizados em Python para Análise de Dados e machine learning.
 
